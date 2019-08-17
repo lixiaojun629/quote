@@ -5,7 +5,7 @@
 // Package quote collects pithy sayings.
 package quote // import "rsc.io/quote"
 
-import "rsc.io/sampler"
+import "github.com/lixiaojun629/sampler"
 
 // Hello returns a greeting.
 func HelloV3() string {
