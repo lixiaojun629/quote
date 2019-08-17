@@ -1,3 +1,3 @@
-module github.com/lixiaojun629/quote
+module github.com/lixiaojun629/quote/v3
 
-require github.com/lixiaojun629/sampler v1.3.0
+require github.com/lixiaojun629/sampler v1.3.2
